@@ -1,16 +1,40 @@
-## Hi there 👋
 
-<!--
-**deepakshradha/deepakshradha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Welcome to My GitHub! 👋
 
-Here are some ideas to get you started:
+Hi, I’m a data enthusiast based in Bangalore, India. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I got into data because I believe that behind every number lies a story—and telling that story can improve operations, increase efficiency, and uncover new opportunities. What drives me daily is the opportunity to solve real-world problems with data.
+
+---
+
+📊 Analytical Skills and Experience
+
+- Proficient in DAX (including *time intelligence calculations*), Data Storytelling (*color theory*, *chart selection*, *narrative building*), Power Query, and Power BI Service (dashboard automation & publishing).
+- Skilled in SQL (data uploads, workflow automation) with knowledge of data warehouse structures.
+- Advanced Excel (Complex formulas).
+- Statistics & Mathematics for Data Science (ML algorithms: *Linear Regression*, *Decision Trees*, *Random Forest*).
+- Domain expertise: Supply Chain, Marketing, Finance.
+
+---
+
+🤝 Connect with Me
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/deepak-shradha/)  
+
+
+🛠️ Language & Tools:  
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+
+---
+
+📌 Pinned Repositories 
+> - [ ] [Excel Projects](https://github.com/)  
+> - [ ] [Power BI Projects](https://github.com/)  
+> - [ ] [SQL Projects](https://github.com/)  
+> - [ ] [Front End Developer Project](https://github.com/)  
+
+---
