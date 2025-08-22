@@ -24,17 +24,7 @@ I got into data because I believe that behind every number lies a story—and te
 
 🛠️ Language & Tools:  
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-
----
-
-📌 Pinned Repositories 
-> - [ ] [Excel Projects](https://github.com/)  
-> - [ ] [Power BI Projects](https://github.com/)  
-> - [ ] [SQL Projects](https://github.com/)  
-> - [ ] [Front End Developer Project](https://github.com/)  
 
 ---
