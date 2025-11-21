@@ -1,7 +1,7 @@
 
 # Welcome to My GitHub! 👋
 
-Hi, I’m a data enthusiast based in Bangalore, India. 
+Hi, I’m a data enthusiast based in India. 
 
 I got into data because I believe that behind every number lies a story—and telling that story can improve operations, increase efficiency, and uncover new opportunities. What drives me daily is the opportunity to solve real-world problems with data.
 
@@ -33,6 +33,7 @@ I got into data because I believe that behind every number lies a story—and te
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Github Copilot](https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.icons8.com/?size=100&id=20906&format=png&color=000000)
 
 
 ---
